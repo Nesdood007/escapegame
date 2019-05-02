@@ -1,0 +1,114 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &3266939959281001881
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 112188594978615090}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87dc44e7eff0b134abedd8e83785eee9, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  go: {fileID: 0}
+--- !u!1001 &8117792863003534419
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 8153383910695466539, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_Name
+      value: Yellow Color Switch
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383910695466535, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 99.634
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383910695466535, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -0.52
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383910695466535, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 272.79
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383910695466535, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383910695466535, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383910695466535, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383910695466535, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383910695466535, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383910695466535, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383910695466535, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383910695466535, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383909313874716, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: 2cbdaeb9de9bede4e8e9c072eb8a4f5a, type: 2}
+    - target: {fileID: 8153383909313874719, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_Color.r
+      value: 0.8678953
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383909313874719, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_Color.g
+      value: 0.9150943
+      objectReference: {fileID: 0}
+    - target: {fileID: 8153383909313874719, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+        type: 3}
+      propertyPath: m_Color.b
+      value: 0.09064613
+      objectReference: {fileID: 0}
+    - target: {fileID: 1977285830, guid: 5c9de838dc50d0d488998c8bf38e5dc0, type: 3}
+      propertyPath: yellow
+      value: 1
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 5c9de838dc50d0d488998c8bf38e5dc0, type: 3}
+--- !u!1 &112188594978615090 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8153383909313874785, guid: 5c9de838dc50d0d488998c8bf38e5dc0,
+    type: 3}
+  m_PrefabInstance: {fileID: 8117792863003534419}
+  m_PrefabAsset: {fileID: 0}
